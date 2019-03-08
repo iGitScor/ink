@@ -1,0 +1,20 @@
+{
+  "name": "inkletters",
+  "version": "1.0.0",
+  "description": "Open letters",
+  "main": "gh-deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGitScor/ink.git"
+  },
+  "keywords": [],
+  "author": "iGitScor <sebastien.correaud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iGitScor/ink/issues"
+  },
+  "homepage": "https://github.com/iGitScor/ink#readme"
+}
