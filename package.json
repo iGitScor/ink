@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iGitScor/ink/issues"
   },
-  "homepage": "https://github.com/iGitScor/ink#readme"
+  "homepage": "https://github.com/iGitScor/ink#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }

@@ -9,6 +9,7 @@ ghpages.publish(
       'CNAME',
       'index.html',
       'styles/**.*',
+      'where-is-the-pause-button/**.*',
       '*.png',
       'browserconfig.xml',
       'favicon.ico',
